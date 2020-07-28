@@ -10,7 +10,7 @@
 run.sh 有安装指令
 
 - gensim
-- torcch
+- torch
 - transformers
 - keras == 2.3.1
 - keras_self_attention 
