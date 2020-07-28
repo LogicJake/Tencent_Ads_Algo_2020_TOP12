@@ -1,5 +1,5 @@
 队伍: 最后一次打比赛  
-队员：@jackhuntcn @PandasCute @LogicJake
+队员：[jackhuntcn](https://github.com/jackhuntcn)、[PandasCute](https://github.com/PandasCute) 、[LogicJake](https://github.com/LogicJake)
 ## 运行环境
 ### 硬件
 - P40 显存 24G
